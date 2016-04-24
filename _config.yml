@@ -1,8 +1,7 @@
+name: loganskees
 favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+layout_spectrum: 1
+typography_spectrum: 0.5386681
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
-typography_spectrum: 0.5386681
-color:
-  saturation: 0.690540665294975
-  brandStrength: 0.971536
-  lightness: 0.2994452964048833
-  brandColors:
-    - '#FFFFFF'
-    - '#894278'
-    - '#432839'
-    - '#8839C6'
-    - '#E99A9A'
-  rhythmicContrast: 0.256932012969628
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
-layout_spectrum: 1
 analytics:
-  twitter: null
   google: null
   facebook: null
-name: loganskees
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#87806e'
+    - '#23272a'
+    - '#5f5846'
+    - '#fe7168'
+  brandStrength: 1
+  lightness: 0.2994452964048833
+  saturation: 0.6875
+  rhythmicContrast: 0.256932012969628
+purpose: []
