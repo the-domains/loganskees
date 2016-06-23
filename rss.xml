@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[loganskees]]></title>
+        <description><![CDATA[loganskees]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 23 Jun 2016 20:35:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Promise yourself to be so strong that nothing can disturb your peace of mind. Look at the sunny side of everything and make your optimism come true. Think only of the best, work only for the best, and expect only the best. Forget the mistakes of the past and press on to the greater achievements of the future. Give so much time to the improvement of yourself that you have no time to criticize others. Live in the faith that the whole world is on your side so long as you are true to the best that is in you!</p>]]></description>
+            <link>undefinedpromise-yourself-to-be-so-strong-that-nothing-can-disturb-yo/index.html</link>
+            <guid isPermaLink="false">add4058b-3b15-4676-9e7d-bda4b8e4ca74</guid>
+            <pubDate>Thu, 23 Jun 2016 20:33:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
